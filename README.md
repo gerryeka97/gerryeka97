@@ -2,12 +2,12 @@ Hi there! I'm Gerry, an IT Support specialist with a passion for technology. I h
 
 What I Do:
 IT Support: Helping users troubleshoot and resolve tech-related issues.
-Programming: Writing code in various languages like Python, JavaScript, and more. I'm still learning 😊
+Programming: Writing code in various languages like JavaScript, C++ and more. I'm still learning 😊
 Tech Enthusiast: Constantly exploring new trends in software development, system administration, and cloud technologies.
 Feel free to check out my projects, contributions, and repositories. I am always open to feedback, collaboration, and learning from others in the community!
 
 Skills and Technologies:
-Languages: Python, JavaScript, Bash
+Languages: C++, JavaScript
 Operating Systems: Windows
 Tech Support: Troubleshooting, Networking, Systems Administration
 

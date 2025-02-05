@@ -6,7 +6,7 @@ Programming: Writing code in various languages like JavaScript, C++ and more. I'
 Tech Enthusiast: Constantly exploring new trends in software development, system administration, and cloud technologies.
 Feel free to check out my projects, contributions, and repositories. I am always open to feedback, collaboration, and learning from others in the community!
 
-Skills and Technologies:
+Skills and Technologies: </br>
 Languages: C++, JavaScript
 Operating Systems: Windows
 Tech Support: Troubleshooting, Networking, Systems Administration
